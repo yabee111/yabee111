@@ -18,7 +18,7 @@
 ### My Skill Set  
 <table><tr>
 
-<td valign="top" width='33%'>
+<td valign="top">
   
 #### Programming Language
 
@@ -29,7 +29,7 @@
 
 </div>
 
-<td valign="top" width='33%'>
+<td valign="top">
   
 #### Frontend  
 
@@ -48,7 +48,7 @@
 
 </td>
 
-<td valign="top" width='33%'>
+<td valign="top">
   
 #### Backend  
 
