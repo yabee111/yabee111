@@ -72,8 +72,11 @@
 <a href="https://linkedin.com/in/tingyunien" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://public.tableau.com/app/profile/ting.yu.nien" target="_blank">
+<img src= https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white alt=Tableau style="margin-bottom: 5px;" />
+</a>  
 </div>  
-  
+ 
 
 <br/>  
 
