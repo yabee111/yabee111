@@ -6,6 +6,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/tingyunien" target="_blank">
+<img src=https://img.shields.io/badge/Wix-000?.svg?&style=for-the-badge&logo=wix&logoColor=white alt=Wix style="margin-bottom: 5px;" />
+</a>  
+<a href="https://tingyunien1026.wixsite.com/tingyu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://public.tableau.com/app/profile/tingyunien" target="_blank">
