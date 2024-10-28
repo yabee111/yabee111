@@ -18,8 +18,9 @@
  
 
 ### About Me
-🔭 I’m currently studying in Human-Technology Interaction at Eindhoven University of Technology (Tu/e) in the Netherlands.  
-   Bachelor: Marjor in Information Management in National University of Kaoshiung in Taiwan.
+🔭 I’m currently a CCX data analyst at KraftHeinz in the Netherlands.
+   Master: Major in Human-Technology Interaction at Eindhoven University of Technology (Tu/e) in the Netherlands.
+   Bachelor: Marjor in Information Management at National University of Kaoshiung in Taiwan.
 
 🌱 My passion for both user-centered design and data-driven analysis has shaped my skill set.   
   
