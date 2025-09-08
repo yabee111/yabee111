@@ -18,14 +18,16 @@
  
 
 ### About Me
-🔭 I’m currently a CCX data analyst at KraftHeinz in the Netherlands.<br/> 
+🔭 Passionate Data Analyst<br/> 
+   Desired Role: Data Analyst, PM
+   Previous Role: Data Analyst (9 months at KraftHeinz)
    Master: Major in Human-Technology Interaction at Eindhoven University of Technology (Tu/e) in the Netherlands.<br/> 
    Bachelor: Marjor in Information Management at National University of Kaoshiung in Taiwan.
 
 🌱 My passion for both user-centered design and data-driven analysis has shaped my skill set.   
   
 
-🙌 I have cultivated a keen interest in data analysis, particularly using **Python** and **Tableau**. I have honed my skills in manipulating, cleaning, and deriving insights from large datasets. I enjoy applying techniques to uncover patterns and trends, enabling data-driven decision-making.  
+🙌 I have cultivated a keen interest in data analysis, particularly using **SQL**, **Python**, **Tableau & Power BI**. I have honed my skills in manipulating, cleaning, and deriving insights from large datasets. I enjoy applying techniques to uncover patterns and trends, enabling data-driven decision-making.  
   
 
 <br/>  
