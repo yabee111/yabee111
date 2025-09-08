@@ -18,9 +18,9 @@
  
 
 ### About Me
-🔭 Passionate Data Analyst<br/> 
-   Desired Role: Data Analyst, PM
-   Previous Role: Data Analyst (9 months at KraftHeinz)
+🔭 **Passionate Data Analyst**<br/> 
+   Desired Role: Data Analyst, PM <br/> 
+   Previous Role: Data Analyst (9 months at KraftHeinz) <br/> 
    Master: Major in Human-Technology Interaction at Eindhoven University of Technology (Tu/e) in the Netherlands.<br/> 
    Bachelor: Marjor in Information Management at National University of Kaoshiung in Taiwan.
 
